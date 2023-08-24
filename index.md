@@ -1,4 +1,4 @@
 ---
-title: A basic page for a basic blog
+title: LS Assignment Blog
 ---
 
